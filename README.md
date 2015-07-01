@@ -1,2 +1,2 @@
 # maps
-home to image files of a few of my maps
+home of image files for a few of my maps
